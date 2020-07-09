@@ -8,3 +8,5 @@ Hi, I'm Raj Vaya, a passionate self-taught Flutter developer from India.
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajvaya&show_icons=true)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rajvaya.rajvaya)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
