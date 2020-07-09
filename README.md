@@ -1,4 +1,2 @@
 ### Hi there 👋
-
-
-[Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajvaya&show_icons=true)
+![Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajvaya)
